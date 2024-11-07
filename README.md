@@ -20,10 +20,4 @@ Python 3.x
 MySQL
 Django
 
-Installation
-Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/flatplanet/Django-CRM.git
-cd Django-CRM
